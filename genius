@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Сучасна пекарня</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li>Наші традиції</li>
+          <li>Шеф-кухарі</li>
+          <li>Формати</li>
+          <li>Контакти</li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section>
+        <h1>Сучасна пекарня</h1>
+
+        <section>
+          <ul>
+            <li>Великий попит на ринку</li>
+            <li>Доступні за бюджетом формати</li>
+            <li>Досвідчена управлінська команда</li>
+          </ul>
+
+          <h2>Новий формат традицій</h2>
+          <p>
+            <span>Shop Bakery</span> — це пекарня, яка взяла все найкраще і
+            зберегла смак традиційної випічки та натуральність інгредієнтів.
+          </p>
+          <p>
+            Ми працюємо як найвідоміші мережі — 5 хвилин і замовлення готове. А
+            ще у наших пекарень стильний дизайн та висока якість обслуговування!
+          </p>
+        </section>
+
+        <section>
+          <h2>Найкращі шеф-кухарі</h2>
+
+          <ul>
+            <li>
+              <article>
+                <h3>Влад</h3>
+                <p>Привіт, я Влад!</p>
+                <p>
+                  Мій кондитерський стаж вже 18 років. SHOP BAKERY — це наша
+                  любов, з якою ми ділимося кожного разу через нашу випічку.
+                </p>
+                <p>Я зроблю для вас унікальну начинку на будь-який смак!</p>
+              </article>
+            </li>
+
+            <li>
+              <article>
+                <h3>Настя</h3>
+                <p>Привіт, я Настя!</p>
+                <p>Вже 10 років, я втілюю у життя цікаві та смачні ідеї.</p>
+                <p>Я випікаю для вас найсмачніші вироби!</p>
+              </article>
+            </li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Формати</h2>
+          <article>
+            <h3 lang="en">Walrus</h3>
+          </article>
+          <article>
+            <h3 lang="en">Horseshoe</h3>
+          </article>
+          <article>
+            <h3 lang="en">Handlebar</h3>
+          </article>
+        </section>
+
+        <section>
+          <h2>Приєднуйтесь до мережі пекарень</h2>
+        </section>
+      </section>
+    </main>
+
+    <footer></footer>
+  </body>
+</html>
